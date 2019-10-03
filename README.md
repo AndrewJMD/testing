@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" style="height: 300px; width: 300px;">
+  <img src="logo.png" style="height: 300px; width: 300px;">
   <h3><b><span style="color:#188DBF;">A simple package to generate a Gravatar URL.</span></b></h3>
 </div>
 
