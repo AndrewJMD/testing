@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" style="height: 300px; width: 300px;">
-  <h3><b><span style="color:#188DC0;">A simple package to generate a Gravatar URL.</span></b></h3>
+  <h3><b><span color=#188DC0;>A simple package to generate a Gravatar URL.</span></b></h3>
 </div>
 
 [![PyPI](https://img.shields.io/pypi/v/gravify)](https://pypi.org/project/gravify/)
